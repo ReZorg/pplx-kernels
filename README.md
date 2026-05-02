@@ -1,7 +1,3 @@
-# !!!DEPRECATION!!!
-
-We deprecated the old NVSHMEM-based kernels in this repo. Please check out our newer kernels in <https://github.com/perplexityai/pplx-garden>.
-
 # Perplexity MoE Kernels
 
 Features:
